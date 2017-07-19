@@ -1,2 +1,2 @@
 # enron-email-communication-network
-This the the extracted Email communication network
+This is the extracted Email communication network from enron Email dataset.
